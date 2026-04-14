@@ -1,0 +1,1 @@
+# mcp-server-uuid-generator
